@@ -35,8 +35,8 @@ return
 
 q::Escape
 w::Send, ^{W}
-e::^+Tab
-r::^Tab
+e::^PgUp
+r::^PgDn
 t::Tab
 Y::Send, ^{y}
 u::PgUp
